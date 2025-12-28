@@ -49,13 +49,18 @@ You’ll get a clean `pandas.DataFrame` ready for export or visualization.
 
 ## 📊 Available Datasets
 
-| Dataset Type      | Description                         |
-|-------------------|-------------------------------------|
-| `Retail Sales`       | Orders, customers, prices, dates    |
-| `Employee Dataset`      | Patients, diagnoses, visits         |
-| `Job Dataset`         | Transactions, accounts, balances    |
-| `Courier`       | Shipments, delivery, tracking       |
-| `Healthcare`       | Students, courses, grades           |
+DataForge provides industry-specific synthetic datasets with clean structure and realistic business attributes.
+
+| Dataset Type | About the Dataset | Key Columns Included |
+|-------------|------------------|---------------------|
+| **Retail Sales** | Simulates ecommerce and retail transactions for pricing, customer segmentation, and profitability analysis. | `order_id`, `order_item_id`, `customer_id`, `product_name`, `category`, `quantity`, `unit_price`, `discount`, `order_date`, `payment_method`, `region` |
+| **Employee Dataset** | HR dataset for payroll analysis, workforce planning, and attrition analytics. | `employee_id`, `first_name`, `last_name`, `gender`, `department`, `role`, `salary`, `hire_date`, `location`, `manager_id`, `employment_status` |
+| **Job Market Dataset** | Job posting + salary dataset for talent analytics, skill gap analysis & job recommendation engines. | `job_id`, `job_title`, `company`, `industry`, `experience_level`, `salary_range`, `skills_required`, `job_type`, `posted_date`, `city`, `country` |
+| **Courier Logistics** | Shipment journey data for last-mile routing, SLA tracking & delivery analytics. | `shipment_id`, `tracking_number`, `sender_city`, `receiver_city`, `pickup_date`, `expected_delivery_date`, `current_status`, `courier_partner`, `delivery_priority`, `weight_kg` |
+| **Healthcare Visits** | Clinical visit events for patient journey analytics & hospital operations simulation. | `patient_id`, `visit_id`, `doctor_id`, `visit_date`, `department`, `diagnosis`, `treatment`, `billing_amount`, `insurance_provider`, `visit_status` |
+
+> ℹ️ All datasets are returned as `pandas.DataFrame` objects with valid data types and referential consistency wherever applicable.
+
 
 > 💡 More datasets will be added regularly. Our goal: **1,00+ industry-specific datasets**.
 
