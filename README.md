@@ -62,7 +62,7 @@ DataForge provides industry-specific synthetic datasets with clean structure and
 > ℹ️ All datasets are returned as `pandas.DataFrame` objects with valid data types and referential consistency wherever applicable.
 
 
-> 💡 More datasets will be added regularly. Our goal: **1,00+ industry-specific datasets**.
+> 💡 More datasets will be added regularly. Our goal: **100+ industry-specific datasets**.
 
 ---
 
@@ -95,7 +95,7 @@ This project is licensed under the [MIT License](LICENSE).
 ## 🧠 Future Plans
 
 - [x] 5+ starter datasets
-- [ ] 1,00+ total industry-specific datasets
+- [ ] 100+ total industry-specific datasets
 
 ---
 
