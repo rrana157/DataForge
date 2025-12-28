@@ -133,4 +133,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Created with ❤️ by [Ravender Singh Rana / BI Learner]
+> Created with ❤️ by [Ravender Singh Rana](https://github.com/rrana157/)] / [BI Learner](https://github.com/rrana157/)
