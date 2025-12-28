@@ -51,18 +51,13 @@ You’ll get a clean `pandas.DataFrame` ready for export or visualization.
 
 | Dataset Type      | Description                         |
 |-------------------|-------------------------------------|
-| `ecommerce`       | Orders, customers, prices, dates    |
-| `healthcare`      | Patients, diagnoses, visits         |
-| `banking`         | Transactions, accounts, balances    |
-| `logistics`       | Shipments, delivery, tracking       |
-| `education`       | Students, courses, grades           |
-| `real_estate`     | Listings, prices, locations         |
-| `retail`          | Sales, products, inventory          |
-| `insurance`       | Policies, claims, customers         |
-| `human_resources` | Employees, roles, salaries          |
-| `travel`          | Bookings, destinations, dates       |
+| `Retail Sales`       | Orders, customers, prices, dates    |
+| `Employee Dataset`      | Patients, diagnoses, visits         |
+| `Job Dataset`         | Transactions, accounts, balances    |
+| `Courier`       | Shipments, delivery, tracking       |
+| `Healthcare`       | Students, courses, grades           |
 
-> 💡 More datasets will be added regularly. Our goal: **1,000+ industry-specific datasets**.
+> 💡 More datasets will be added regularly. Our goal: **1,00+ industry-specific datasets**.
 
 ---
 
