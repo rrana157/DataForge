@@ -81,29 +81,6 @@ df.to_json('sample.json', orient='records')
 
 ---
 
-## 🧩 Extending with Custom Datasets
-
-Want to create your own dataset module?
-
-```python
-# DataForge/datasets/mydataset.py
-
-def generate(count: int):
-    # Return a pandas DataFrame with your custom logic
-```
-
-Then register it in `generator.py`. Full contribution guide: [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
-## 🤝 Contributing
-
-We welcome contributions! If you have a new dataset idea or feature, check out:
-
-📄 [CONTRIBUTING.md](CONTRIBUTING.md)
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
@@ -112,11 +89,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## 🧠 Future Plans
 
-- [x] 10+ starter datasets
-- [ ] 1,000+ total industry-specific datasets
-- [ ] Custom schema generation (YAML/JSON)
-- [ ] Web app and Streamlit UI
-- [ ] API access for integrations
+- [x] 5+ starter datasets
+- [ ] 1,00+ total industry-specific datasets
 
 ---
 
