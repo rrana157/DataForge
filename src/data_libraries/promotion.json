@@ -1,0 +1,64 @@
+[
+  {
+  "No Discount": {
+    "PromotionDescription": "No Discount",
+    "DiscountPercent": 0,
+    "PromotionType": "No Discount",
+    "PromotionCategory": "No Discount"
+  },
+  "North America Spring Promotion": {
+    "PromotionDescription": "North America Spring Promotion",
+    "DiscountPercent": 0.05,
+    "PromotionType": "Seasonal Discount",
+    "PromotionCategory": "Store"
+  },
+  "North America Back-to-School Promotion": {
+    "PromotionDescription": "North America Back-to-School Promotion",
+    "DiscountPercent": 0.1,
+    "PromotionType": "Seasonal Discount",
+    "PromotionCategory": "Store"
+  },
+  "North America Holiday Promotion": {
+    "PromotionDescription": "North America Holiday Promotion",
+    "DiscountPercent": 0.2,
+    "PromotionType": "Seasonal Discount",
+    "PromotionCategory": "Store"
+  },
+  "Asian Holiday Promotion": {
+    "PromotionDescription": "Asian Holiday Promotion",
+    "DiscountPercent": 0.15,
+    "PromotionType": "Seasonal Discount",
+    "PromotionCategory": "Store"
+  },
+  "Asian Spring Promotion": {
+    "PromotionDescription": "Asian Spring Promotion",
+    "DiscountPercent": 0.2,
+    "PromotionType": "Seasonal Discount",
+    "PromotionCategory": "Store"
+  },
+  "Asian Summer Promotion": {
+    "PromotionDescription": "Asian Summer Promotion",
+    "DiscountPercent": 0.1,
+    "PromotionType": "Seasonal Discount",
+    "PromotionCategory": "Store"
+  },
+  "European Spring Promotion": {
+    "PromotionDescription": "European Spring Promotion",
+    "DiscountPercent": 0.07,
+    "PromotionType": "Seasonal Discount",
+    "PromotionCategory": "Store"
+  },
+  "European Back-to-School Promotion": {
+    "PromotionDescription": "European Back-to-School Promotion",
+    "DiscountPercent": 0.1,
+    "PromotionType": "Seasonal Discount",
+    "PromotionCategory": "Store"
+  },
+  "European Holiday Promotion": {
+    "PromotionDescription": "European Holiday Promotion",
+    "DiscountPercent": 0.2,
+    "PromotionType": "Seasonal Discount",
+    "PromotionCategory": "Store"
+  }
+}
+]

@@ -1,0 +1,1482 @@
+[
+  {
+    "Job Title": "Software Engineer",
+    "Skills": "Programming (Java, Python, C++), Algorithms, Data Structures, Problem Solving",
+    "Role": "Develops, tests, and maintains software applications",
+    "Responsibilities": "Write clean code, debug, collaborate with teams, participate in design reviews",
+    "Degree": "Bachelor's in Computer Science or related",
+    "job_description": "The Software Engineer role focuses on Develops, tests, and maintains software applications. This position requires strong proficiency in Programming (Java, Python, C++), Algorithms, Data Structures, Problem Solving. Key responsibilities include Write clean code, debug, collaborate with teams, participate in design reviews. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Data Analyst",
+    "Skills": "SQL, Excel, Data Visualization, Statistical Analysis, Python/R",
+    "Role": "Interprets data to support decision-making",
+    "Responsibilities": "Collect, process, and analyze data; create reports and dashboards",
+    "Degree": "Bachelor's in Statistics, Math, CS, or related",
+    "job_description": "The Data Analyst role focuses on Interprets data to support decision-making. This position requires strong proficiency in SQL, Excel, Data Visualization, Statistical Analysis, Python/R. Key responsibilities include Collect, process, and analyze data; create reports and dashboards. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Marketing Manager",
+    "Skills": "Market Research, SEO, Campaign Management, Communication, Analytics",
+    "Role": "Plans and executes marketing strategies",
+    "Responsibilities": "Develop campaigns, analyze market trends, coordinate marketing teams, manage budgets",
+    "Degree": "Bachelor's in Marketing, Business, or related",
+    "job_description": "The Marketing Manager role focuses on Plans and executes marketing strategies. This position requires strong proficiency in Market Research, SEO, Campaign Management, Communication, Analytics. Key responsibilities include Develop campaigns, analyze market trends, coordinate marketing teams, manage budgets. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Graphic Designer",
+    "Skills": "Adobe Creative Suite, Typography, Branding, Creativity, Communication",
+    "Role": "Creates visual content for branding and communication",
+    "Responsibilities": "Design logos, brochures, ads, social media graphics, collaborate with clients",
+    "Degree": "Bachelor's in Graphic Design or Fine Arts",
+    "job_description": "The Graphic Designer role focuses on Creates visual content for branding and communication. This position requires strong proficiency in Adobe Creative Suite, Typography, Branding, Creativity, Communication. Key responsibilities include Design logos, brochures, ads, social media graphics, collaborate with clients. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Sales Representative",
+    "Skills": "Communication, Negotiation, CRM Software, Product Knowledge, Customer Service",
+    "Role": "Sells products/services to clients",
+    "Responsibilities": "Identify prospects, present products, negotiate deals, maintain customer relationships",
+    "Degree": "Bachelor's in Business or related field",
+    "job_description": "The Sales Representative role focuses on Sells products/services to clients. This position requires strong proficiency in Communication, Negotiation, CRM Software, Product Knowledge, Customer Service. Key responsibilities include Identify prospects, present products, negotiate deals, maintain customer relationships. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Product Manager",
+    "Skills": "Product Lifecycle Management, Agile, UX, Market Research, Communication",
+    "Role": "Oversees product development from concept to launch",
+    "Responsibilities": "Define product vision, prioritize features, coordinate teams, analyze user feedback",
+    "Degree": "Bachelor's in Business, Engineering, or related",
+    "job_description": "The Product Manager role focuses on Oversees product development from concept to launch. This position requires strong proficiency in Product Lifecycle Management, Agile, UX, Market Research, Communication. Key responsibilities include Define product vision, prioritize features, coordinate teams, analyze user feedback. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Customer Support Specialist",
+    "Skills": "Communication, Problem Solving, CRM Tools, Patience, Multitasking",
+    "Role": "Provides technical or service support to customers",
+    "Responsibilities": "Respond to inquiries, troubleshoot issues, document cases, escalate problems",
+    "Degree": "High School Diploma or Bachelor's in related field",
+    "job_description": "The Customer Support Specialist role focuses on Provides technical or service support to customers. This position requires strong proficiency in Communication, Problem Solving, CRM Tools, Patience, Multitasking. Key responsibilities include Respond to inquiries, troubleshoot issues, document cases, escalate problems. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Financial Analyst",
+    "Skills": "Financial Modeling, Excel, Accounting, Valuation, Analytical Skills",
+    "Role": "Analyzes financial data to support investment decisions",
+    "Responsibilities": "Prepare reports, analyze trends, forecast financial performance, evaluate risks",
+    "Degree": "Bachelor's in Finance, Economics, or Accounting",
+    "job_description": "The Financial Analyst role focuses on Analyzes financial data to support investment decisions. This position requires strong proficiency in Financial Modeling, Excel, Accounting, Valuation, Analytical Skills. Key responsibilities include Prepare reports, analyze trends, forecast financial performance, evaluate risks. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Human Resources Manager",
+    "Skills": "Recruitment, Employee Relations, Labor Law, HRIS, Performance Management",
+    "Role": "Manages HR functions and policies",
+    "Responsibilities": "Oversee hiring, develop policies, manage employee relations, ensure compliance",
+    "Degree": "Bachelor's in HR, Business, or related",
+    "job_description": "The Human Resources Manager role focuses on Manages HR functions and policies. This position requires strong proficiency in Recruitment, Employee Relations, Labor Law, HRIS, Performance Management. Key responsibilities include Oversee hiring, develop policies, manage employee relations, ensure compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Web Developer",
+    "Skills": "HTML, CSS, JavaScript, Frameworks, Responsive Design",
+    "Role": "Builds and maintains websites and web applications",
+    "Responsibilities": "Develop front-end/back-end features, optimize for performance, fix bugs",
+    "Degree": "Bachelor's in Computer Science or related",
+    "job_description": "The Web Developer role focuses on Builds and maintains websites and web applications. This position requires strong proficiency in HTML, CSS, JavaScript, Frameworks, Responsive Design. Key responsibilities include Develop front-end/back-end features, optimize for performance, fix bugs. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Project Manager",
+    "Skills": "Project Planning, Risk Management, Agile/Scrum, Communication, Budgeting",
+    "Role": "Plans and leads projects to successful completion",
+    "Responsibilities": "Define scope, schedule tasks, allocate resources, track progress, manage stakeholders",
+    "Degree": "Bachelor's in Business, Engineering, or related",
+    "job_description": "The Project Manager role focuses on Plans and leads projects to successful completion. This position requires strong proficiency in Project Planning, Risk Management, Agile/Scrum, Communication, Budgeting. Key responsibilities include Define scope, schedule tasks, allocate resources, track progress, manage stakeholders. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Accountant",
+    "Skills": "Accounting Principles, Tax Law, Bookkeeping, Excel, Attention to Detail",
+    "Role": "Manages financial records and reporting",
+    "Responsibilities": "Prepare financial statements, reconcile accounts, manage payroll, ensure regulatory compliance",
+    "Degree": "Bachelor's in Accounting or Finance",
+    "job_description": "The Accountant role focuses on Manages financial records and reporting. This position requires strong proficiency in Accounting Principles, Tax Law, Bookkeeping, Excel, Attention to Detail. Key responsibilities include Prepare financial statements, reconcile accounts, manage payroll, ensure regulatory compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Business Analyst",
+    "Skills": "Requirements Gathering, Process Modeling, SQL, Communication, Critical Thinking",
+    "Role": "Analyzes business needs and translates into technical solutions",
+    "Responsibilities": "Gather requirements, analyze processes, communicate with stakeholders, support implementation",
+    "Degree": "Bachelor's in Business, IT, or related",
+    "job_description": "The Business Analyst role focuses on Analyzes business needs and translates into technical solutions. This position requires strong proficiency in Requirements Gathering, Process Modeling, SQL, Communication, Critical Thinking. Key responsibilities include Gather requirements, analyze processes, communicate with stakeholders, support implementation. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Content Writer",
+    "Skills": "Writing, SEO, Research, Editing, Creativity",
+    "Role": "Creates written content for marketing or informational purposes",
+    "Responsibilities": "Produce blog posts, articles, website content, social media posts",
+    "Degree": "Bachelor's in English, Journalism, or related",
+    "job_description": "The Content Writer role focuses on Creates written content for marketing or informational purposes. This position requires strong proficiency in Writing, SEO, Research, Editing, Creativity. Key responsibilities include Produce blog posts, articles, website content, social media posts. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "HR Coordinator",
+    "Skills": "Recruitment, Onboarding, Records Management, Communication, Multitasking",
+    "Role": "Supports HR functions and administration",
+    "Responsibilities": "Schedule interviews, maintain employee records, assist with onboarding, coordinate HR events",
+    "Degree": "Bachelor's in HR, Business, or related",
+    "job_description": "The HR Coordinator role focuses on Supports HR functions and administration. This position requires strong proficiency in Recruitment, Onboarding, Records Management, Communication, Multitasking. Key responsibilities include Schedule interviews, maintain employee records, assist with onboarding, coordinate HR events. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Network Engineer",
+    "Skills": "Networking Protocols, TCP/IP, Cisco, Troubleshooting, Security",
+    "Role": "Designs and manages network infrastructure",
+    "Responsibilities": "Configure routers/switches, monitor network performance, resolve connectivity issues",
+    "Degree": "Bachelor's in Computer Science, IT, or related",
+    "job_description": "The Network Engineer role focuses on Designs and manages network infrastructure. This position requires strong proficiency in Networking Protocols, TCP/IP, Cisco, Troubleshooting, Security. Key responsibilities include Configure routers/switches, monitor network performance, resolve connectivity issues. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "UX/UI Designer",
+    "Skills": "User Research, Wireframing, Prototyping, Visual Design, Interaction Design",
+    "Role": "Designs user-friendly digital interfaces",
+    "Responsibilities": "Conduct user testing, create wireframes/prototypes, collaborate with developers",
+    "Degree": "Bachelor's in Design, HCI, or related",
+    "job_description": "The UX/UI Designer role focuses on Designs user-friendly digital interfaces. This position requires strong proficiency in User Research, Wireframing, Prototyping, Visual Design, Interaction Design. Key responsibilities include Conduct user testing, create wireframes/prototypes, collaborate with developers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Digital Marketing Specialist",
+    "Skills": "SEO, PPC, Content Marketing, Analytics, Social Media Management",
+    "Role": "Develops and manages online marketing campaigns",
+    "Responsibilities": "Plan ads, optimize campaigns, analyze web traffic, manage social media accounts",
+    "Degree": "Bachelor's in Marketing or Communications",
+    "job_description": "The Digital Marketing Specialist role focuses on Develops and manages online marketing campaigns. This position requires strong proficiency in SEO, PPC, Content Marketing, Analytics, Social Media Management. Key responsibilities include Plan ads, optimize campaigns, analyze web traffic, manage social media accounts. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Research Scientist",
+    "Skills": "Research Methods, Data Analysis, Scientific Writing, Critical Thinking",
+    "Role": "Conducts experiments and research studies",
+    "Responsibilities": "Design studies, collect data, analyze results, publish findings",
+    "Degree": "Master's/PhD in relevant scientific field",
+    "job_description": "The Research Scientist role focuses on Conducts experiments and research studies. This position requires strong proficiency in Research Methods, Data Analysis, Scientific Writing, Critical Thinking. Key responsibilities include Design studies, collect data, analyze results, publish findings. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Operations Manager",
+    "Skills": "Operations Management, Process Improvement, Leadership, Budgeting, Analytics",
+    "Role": "Oversees daily operations to optimize efficiency",
+    "Responsibilities": "Manage staff, develop workflows, control budgets, ensure quality standards",
+    "Degree": "Bachelor's in Business, Operations, or related",
+    "job_description": "The Operations Manager role focuses on Oversees daily operations to optimize efficiency. This position requires strong proficiency in Operations Management, Process Improvement, Leadership, Budgeting, Analytics. Key responsibilities include Manage staff, develop workflows, control budgets, ensure quality standards. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Software Developer",
+    "Skills": "Programming, Software Development Life Cycle, Version Control, Debugging",
+    "Role": "Designs and implements software applications",
+    "Responsibilities": "Write code, perform testing, collaborate on software design, maintain documentation",
+    "Degree": "Bachelor's in Computer Science or related",
+    "job_description": "The Software Developer role focuses on Designs and implements software applications. This position requires strong proficiency in Programming, Software Development Life Cycle, Version Control, Debugging. Key responsibilities include Write code, perform testing, collaborate on software design, maintain documentation. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Quality Assurance Analyst",
+    "Skills": "Testing, Automation Tools, Bug Tracking, Attention to Detail",
+    "Role": "Ensures software meets quality standards",
+    "Responsibilities": "Develop test plans, execute tests, report defects, collaborate with developers",
+    "Degree": "Bachelor's in CS, IT, or related",
+    "job_description": "The Quality Assurance Analyst role focuses on Ensures software meets quality standards. This position requires strong proficiency in Testing, Automation Tools, Bug Tracking, Attention to Detail. Key responsibilities include Develop test plans, execute tests, report defects, collaborate with developers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Social Media Manager",
+    "Skills": "Social Media Platforms, Content Creation, Analytics, Communication",
+    "Role": "Manages company's social media presence",
+    "Responsibilities": "Create posts, engage audience, monitor analytics, manage campaigns",
+    "Degree": "Bachelor's in Marketing, Communications, or related",
+    "job_description": "The Social Media Manager role focuses on Manages company's social media presence. This position requires strong proficiency in Social Media Platforms, Content Creation, Analytics, Communication. Key responsibilities include Create posts, engage audience, monitor analytics, manage campaigns. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Legal Counsel",
+    "Skills": "Legal Research, Contract Law, Negotiation, Compliance, Communication",
+    "Role": "Provides legal advice to the organization",
+    "Responsibilities": "Draft contracts, review policies, ensure legal compliance, represent company",
+    "Degree": "JD or equivalent law degree",
+    "job_description": "The Legal Counsel role focuses on Provides legal advice to the organization. This position requires strong proficiency in Legal Research, Contract Law, Negotiation, Compliance, Communication. Key responsibilities include Draft contracts, review policies, ensure legal compliance, represent company. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Executive Assistant",
+    "Skills": "Organization, Communication, Calendar Management, Confidentiality, MS Office",
+    "Role": "Supports executives with administrative tasks",
+    "Responsibilities": "Manage schedules, coordinate meetings, handle correspondence, prepare reports",
+    "Degree": "Associate/Bachelor's in Business Administration",
+    "job_description": "The Executive Assistant role focuses on Supports executives with administrative tasks. This position requires strong proficiency in Organization, Communication, Calendar Management, Confidentiality, MS Office. Key responsibilities include Manage schedules, coordinate meetings, handle correspondence, prepare reports. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Systems Administrator",
+    "Skills": "System Configuration, Security, Backup & Recovery, Troubleshooting",
+    "Role": "Maintains and supports IT systems",
+    "Responsibilities": "Install/update software, monitor systems, manage user accounts, ensure security",
+    "Degree": "Bachelor's in IT, CS, or related",
+    "job_description": "The Systems Administrator role focuses on Maintains and supports IT systems. This position requires strong proficiency in System Configuration, Security, Backup & Recovery, Troubleshooting. Key responsibilities include Install/update software, monitor systems, manage user accounts, ensure security. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Electrical Engineer",
+    "Skills": "Circuit Design, MATLAB, Power Systems, Problem Solving",
+    "Role": "Designs electrical systems and components",
+    "Responsibilities": "Develop schematics, test electrical devices, oversee installations",
+    "Degree": "Bachelor's in Electrical Engineering",
+    "job_description": "The Electrical Engineer role focuses on Designs electrical systems and components. This position requires strong proficiency in Circuit Design, MATLAB, Power Systems, Problem Solving. Key responsibilities include Develop schematics, test electrical devices, oversee installations. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Procurement Specialist",
+    "Skills": "Vendor Management, Negotiation, ERP Systems, Sourcing, Cost Analysis",
+    "Role": "Manages purchasing of goods and services",
+    "Responsibilities": "Source suppliers, negotiate contracts, manage purchase orders",
+    "Degree": "Bachelor's in Business, Supply Chain, or related",
+    "job_description": "The Procurement Specialist role focuses on Manages purchasing of goods and services. This position requires strong proficiency in Vendor Management, Negotiation, ERP Systems, Sourcing, Cost Analysis. Key responsibilities include Source suppliers, negotiate contracts, manage purchase orders. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "SEO Specialist",
+    "Skills": "SEO Tools, Keyword Research, On-page SEO, Analytics, Content Strategy",
+    "Role": "Improves website visibility in search engines",
+    "Responsibilities": "Optimize website content, analyze rankings, perform audits, implement SEO best practices",
+    "Degree": "Bachelor's in Marketing, Communications, or related",
+    "job_description": "The SEO Specialist role focuses on Improves website visibility in search engines. This position requires strong proficiency in SEO Tools, Keyword Research, On-page SEO, Analytics, Content Strategy. Key responsibilities include Optimize website content, analyze rankings, perform audits, implement SEO best practices. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Nurse Practitioner",
+    "Skills": "Patient Care, Diagnostics, Clinical Procedures, Communication",
+    "Role": "Provides advanced nursing care and diagnoses",
+    "Responsibilities": "Perform exams, diagnose illnesses, prescribe medication, educate patients",
+    "Degree": "Master's or Doctorate in Nursing",
+    "job_description": "The Nurse Practitioner role focuses on Provides advanced nursing care and diagnoses. This position requires strong proficiency in Patient Care, Diagnostics, Clinical Procedures, Communication. Key responsibilities include Perform exams, diagnose illnesses, prescribe medication, educate patients. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Architect",
+    "Skills": "AutoCAD, Building Codes, Design Principles, Project Management",
+    "Role": "Designs buildings and oversees construction plans",
+    "Responsibilities": "Create architectural designs, coordinate with engineers, ensure compliance with regulations",
+    "Degree": "Bachelor's/Master's in Architecture",
+    "job_description": "The Architect role focuses on Designs buildings and oversees construction plans. This position requires strong proficiency in AutoCAD, Building Codes, Design Principles, Project Management. Key responsibilities include Create architectural designs, coordinate with engineers, ensure compliance with regulations. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Data Scientist",
+    "Skills": "Python, Machine Learning, Statistics, Data Visualization, SQL",
+    "Role": "Analyzes large datasets to extract insights",
+    "Responsibilities": "Develop models, analyze data, communicate findings, support business decisions",
+    "Degree": "Bachelor's/Master's in Data Science, CS, or related",
+    "job_description": "The Data Scientist role focuses on Analyzes large datasets to extract insights. This position requires strong proficiency in Python, Machine Learning, Statistics, Data Visualization, SQL. Key responsibilities include Develop models, analyze data, communicate findings, support business decisions. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Event Planner",
+    "Skills": "Organization, Vendor Coordination, Budget Management, Communication",
+    "Role": "Plans and executes events",
+    "Responsibilities": "Coordinate vendors, manage schedules, oversee event setup, ensure client satisfaction",
+    "Degree": "Bachelor's in Hospitality, Marketing, or related",
+    "job_description": "The Event Planner role focuses on Plans and executes events. This position requires strong proficiency in Organization, Vendor Coordination, Budget Management, Communication. Key responsibilities include Coordinate vendors, manage schedules, oversee event setup, ensure client satisfaction. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Public Relations Specialist",
+    "Skills": "Media Relations, Writing, Crisis Management, Communication, Social Media",
+    "Role": "Manages public image and communication",
+    "Responsibilities": "Draft press releases, organize media events, handle public inquiries, monitor media coverage",
+    "Degree": "Bachelor's in PR, Communications, or related",
+    "job_description": "The Public Relations Specialist role focuses on Manages public image and communication. This position requires strong proficiency in Media Relations, Writing, Crisis Management, Communication, Social Media. Key responsibilities include Draft press releases, organize media events, handle public inquiries, monitor media coverage. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Financial Advisor",
+    "Skills": "Financial Planning, Investment Strategies, Communication, Compliance",
+    "Role": "Provides financial guidance to clients",
+    "Responsibilities": "Assess client goals, recommend investments, monitor portfolios, ensure regulatory compliance",
+    "Degree": "Bachelor's in Finance, Economics, or related",
+    "job_description": "The Financial Advisor role focuses on Provides financial guidance to clients. This position requires strong proficiency in Financial Planning, Investment Strategies, Communication, Compliance. Key responsibilities include Assess client goals, recommend investments, monitor portfolios, ensure regulatory compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Mechanical Engineer",
+    "Skills": "CAD Software, Thermodynamics, Materials Science, Problem Solving",
+    "Role": "Designs mechanical devices and systems",
+    "Responsibilities": "Create mechanical designs, perform simulations, oversee manufacturing",
+    "Degree": "Bachelor's in Mechanical Engineering",
+    "job_description": "The Mechanical Engineer role focuses on Designs mechanical devices and systems. This position requires strong proficiency in CAD Software, Thermodynamics, Materials Science, Problem Solving. Key responsibilities include Create mechanical designs, perform simulations, oversee manufacturing. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Marketing Coordinator",
+    "Skills": "Event Planning, Content Creation, Social Media, Analytics",
+    "Role": "Supports marketing team activities",
+    "Responsibilities": "Coordinate campaigns, manage social media, organize events, track performance",
+    "Degree": "Bachelor's in Marketing or Communications",
+    "job_description": "The Marketing Coordinator role focuses on Supports marketing team activities. This position requires strong proficiency in Event Planning, Content Creation, Social Media, Analytics. Key responsibilities include Coordinate campaigns, manage social media, organize events, track performance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "IT Support Specialist",
+    "Skills": "Troubleshooting, Hardware/Software Knowledge, Customer Service, Networking",
+    "Role": "Provides technical support to end users",
+    "Responsibilities": "Diagnose issues, install software, maintain hardware, assist users",
+    "Degree": "Associate/Bachelor's in IT or related",
+    "job_description": "The IT Support Specialist role focuses on Provides technical support to end users. This position requires strong proficiency in Troubleshooting, Hardware/Software Knowledge, Customer Service, Networking. Key responsibilities include Diagnose issues, install software, maintain hardware, assist users. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Pharmaceutical Sales Rep",
+    "Skills": "Product Knowledge, Communication, Negotiation, Relationship Building",
+    "Role": "Sells pharmaceutical products to healthcare professionals",
+    "Responsibilities": "Educate providers, manage accounts, attend conferences, meet sales targets",
+    "Degree": "Bachelor's in Life Sciences, Business, or related",
+    "job_description": "The Pharmaceutical Sales Rep role focuses on Sells pharmaceutical products to healthcare professionals. This position requires strong proficiency in Product Knowledge, Communication, Negotiation, Relationship Building. Key responsibilities include Educate providers, manage accounts, attend conferences, meet sales targets. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Project Coordinator",
+    "Skills": "Scheduling, Communication, Documentation, Risk Management",
+    "Role": "Assists project manager in daily operations",
+    "Responsibilities": "Track project progress, organize meetings, prepare reports, maintain documentation",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Project Coordinator role focuses on Assists project manager in daily operations. This position requires strong proficiency in Scheduling, Communication, Documentation, Risk Management. Key responsibilities include Track project progress, organize meetings, prepare reports, maintain documentation. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Art Director",
+    "Skills": "Creative Direction, Branding, Adobe Suite, Leadership",
+    "Role": "Leads creative projects and visual style",
+    "Responsibilities": "Supervise design team, develop concepts, review creative output",
+    "Degree": "Bachelor's in Graphic Design, Fine Arts, or related",
+    "job_description": "The Art Director role focuses on Leads creative projects and visual style. This position requires strong proficiency in Creative Direction, Branding, Adobe Suite, Leadership. Key responsibilities include Supervise design team, develop concepts, review creative output. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Supply Chain Manager",
+    "Skills": "Logistics, Inventory Management, ERP, Negotiation",
+    "Role": "Manages supply chain operations",
+    "Responsibilities": "Oversee procurement, manage logistics, optimize inventory, coordinate suppliers",
+    "Degree": "Bachelor's in Supply Chain, Business, or related",
+    "job_description": "The Supply Chain Manager role focuses on Manages supply chain operations. This position requires strong proficiency in Logistics, Inventory Management, ERP, Negotiation. Key responsibilities include Oversee procurement, manage logistics, optimize inventory, coordinate suppliers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Teacher",
+    "Skills": "Subject Knowledge, Classroom Management, Communication, Lesson Planning",
+    "Role": "Educates students and supports learning",
+    "Responsibilities": "Prepare lessons, deliver instruction, assess student progress, maintain discipline",
+    "Degree": "Bachelor's in Education or related",
+    "job_description": "The Teacher role focuses on Educates students and supports learning. This position requires strong proficiency in Subject Knowledge, Classroom Management, Communication, Lesson Planning. Key responsibilities include Prepare lessons, deliver instruction, assess student progress, maintain discipline. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Customer Success Manager",
+    "Skills": "Customer Relationship Management, Communication, Problem Solving",
+    "Role": "Ensures customer satisfaction and retention",
+    "Responsibilities": "Onboard clients, provide training, address issues, build long-term relationships",
+    "Degree": "Bachelor's in Business, Communications, or related",
+    "job_description": "The Customer Success Manager role focuses on Ensures customer satisfaction and retention. This position requires strong proficiency in Customer Relationship Management, Communication, Problem Solving. Key responsibilities include Onboard clients, provide training, address issues, build long-term relationships. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Database Administrator",
+    "Skills": "SQL, Database Design, Performance Tuning, Backup & Recovery",
+    "Role": "Manages and maintains databases",
+    "Responsibilities": "Install and upgrade DBMS, optimize queries, ensure data security, backup data",
+    "Degree": "Bachelor's in Computer Science, IT, or related",
+    "job_description": "The Database Administrator role focuses on Manages and maintains databases. This position requires strong proficiency in SQL, Database Design, Performance Tuning, Backup & Recovery. Key responsibilities include Install and upgrade DBMS, optimize queries, ensure data security, backup data. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Investment Analyst",
+    "Skills": "Financial Modeling, Market Research, Excel, Risk Analysis",
+    "Role": "Evaluates investment opportunities",
+    "Responsibilities": "Analyze financial data, prepare reports, track market trends, recommend investments",
+    "Degree": "Bachelor's in Finance, Economics, or related",
+    "job_description": "The Investment Analyst role focuses on Evaluates investment opportunities. This position requires strong proficiency in Financial Modeling, Market Research, Excel, Risk Analysis. Key responsibilities include Analyze financial data, prepare reports, track market trends, recommend investments. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "UI Developer",
+    "Skills": "HTML, CSS, JavaScript, Responsive Design",
+    "Role": "Develops user interface components",
+    "Responsibilities": "Build web interfaces, optimize for performance, collaborate with designers and backend developers",
+    "Degree": "Bachelor's in Computer Science or related",
+    "job_description": "The UI Developer role focuses on Develops user interface components. This position requires strong proficiency in HTML, CSS, JavaScript, Responsive Design. Key responsibilities include Build web interfaces, optimize for performance, collaborate with designers and backend developers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Dental Hygienist",
+    "Skills": "Patient Care, Dental Procedures, Communication, Sterilization",
+    "Role": "Provides preventive dental care",
+    "Responsibilities": "Clean teeth, educate patients, assist dentists, maintain records",
+    "Degree": "Associate Degree in Dental Hygiene",
+    "job_description": "The Dental Hygienist role focuses on Provides preventive dental care. This position requires strong proficiency in Patient Care, Dental Procedures, Communication, Sterilization. Key responsibilities include Clean teeth, educate patients, assist dentists, maintain records. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Interior Designer",
+    "Skills": "AutoCAD, Space Planning, Material Knowledge, Creativity",
+    "Role": "Designs interior spaces",
+    "Responsibilities": "Create design concepts, select materials, coordinate with contractors",
+    "Degree": "Bachelor's in Interior Design or related",
+    "job_description": "The Interior Designer role focuses on Designs interior spaces. This position requires strong proficiency in AutoCAD, Space Planning, Material Knowledge, Creativity. Key responsibilities include Create design concepts, select materials, coordinate with contractors. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Account Executive",
+    "Skills": "Sales, Communication, CRM, Negotiation",
+    "Role": "Manages client accounts and sales",
+    "Responsibilities": "Develop client relationships, close deals, meet sales targets",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Account Executive role focuses on Manages client accounts and sales. This position requires strong proficiency in Sales, Communication, CRM, Negotiation. Key responsibilities include Develop client relationships, close deals, meet sales targets. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Software Tester",
+    "Skills": "Testing Tools, Test Case Design, Automation, Bug Tracking",
+    "Role": "Tests software to identify defects",
+    "Responsibilities": "Design test plans, execute tests, report bugs, verify fixes",
+    "Degree": "Bachelor's in CS, IT, or related",
+    "job_description": "The Software Tester role focuses on Tests software to identify defects. This position requires strong proficiency in Testing Tools, Test Case Design, Automation, Bug Tracking. Key responsibilities include Design test plans, execute tests, report bugs, verify fixes. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Civil Engineer",
+    "Skills": "Structural Analysis, CAD, Project Management",
+    "Role": "Designs and supervises construction projects",
+    "Responsibilities": "Prepare plans, inspect sites, ensure compliance with standards",
+    "Degree": "Bachelor's in Civil Engineering",
+    "job_description": "The Civil Engineer role focuses on Designs and supervises construction projects. This position requires strong proficiency in Structural Analysis, CAD, Project Management. Key responsibilities include Prepare plans, inspect sites, ensure compliance with standards. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Brand Manager",
+    "Skills": "Branding, Marketing Strategy, Communication, Analytics",
+    "Role": "Develops and manages brand image",
+    "Responsibilities": "Plan brand campaigns, analyze market trends, coordinate marketing efforts",
+    "Degree": "Bachelor's in Marketing or Business",
+    "job_description": "The Brand Manager role focuses on Develops and manages brand image. This position requires strong proficiency in Branding, Marketing Strategy, Communication, Analytics. Key responsibilities include Plan brand campaigns, analyze market trends, coordinate marketing efforts. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "IT Manager",
+    "Skills": "IT Strategy, Team Leadership, Security, Budgeting",
+    "Role": "Oversees IT department and strategy",
+    "Responsibilities": "Manage IT staff, plan infrastructure, enforce policies, control budgets",
+    "Degree": "Bachelor's in IT, CS, or related",
+    "job_description": "The IT Manager role focuses on Oversees IT department and strategy. This position requires strong proficiency in IT Strategy, Team Leadership, Security, Budgeting. Key responsibilities include Manage IT staff, plan infrastructure, enforce policies, control budgets. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Occupational Therapist",
+    "Skills": "Patient Care, Rehabilitation, Communication",
+    "Role": "Helps patients regain skills and independence",
+    "Responsibilities": "Assess patients, develop treatment plans, guide exercises",
+    "Degree": "Bachelor's/Master's in Occupational Therapy",
+    "job_description": "The Occupational Therapist role focuses on Helps patients regain skills and independence. This position requires strong proficiency in Patient Care, Rehabilitation, Communication. Key responsibilities include Assess patients, develop treatment plans, guide exercises. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Tax Consultant",
+    "Skills": "Tax Law, Accounting, Research, Analytical Skills",
+    "Role": "Provides tax planning and compliance services",
+    "Responsibilities": "Prepare tax returns, advise clients, ensure regulatory compliance",
+    "Degree": "Bachelor's in Accounting or Finance",
+    "job_description": "The Tax Consultant role focuses on Provides tax planning and compliance services. This position requires strong proficiency in Tax Law, Accounting, Research, Analytical Skills. Key responsibilities include Prepare tax returns, advise clients, ensure regulatory compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Research Analyst",
+    "Skills": "Data Collection, Statistical Analysis, Reporting",
+    "Role": "Conducts research to support business or academic needs",
+    "Responsibilities": "Gather data, analyze trends, prepare reports, present findings",
+    "Degree": "Bachelor's in Research, Statistics, or related",
+    "job_description": "The Research Analyst role focuses on Conducts research to support business or academic needs. This position requires strong proficiency in Data Collection, Statistical Analysis, Reporting. Key responsibilities include Gather data, analyze trends, prepare reports, present findings. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Front-End Developer",
+    "Skills": "HTML, CSS, JavaScript, Frameworks",
+    "Role": "Develops client-side web applications",
+    "Responsibilities": "Build UI components, ensure responsive design, optimize performance",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The Front-End Developer role focuses on Develops client-side web applications. This position requires strong proficiency in HTML, CSS, JavaScript, Frameworks. Key responsibilities include Build UI components, ensure responsive design, optimize performance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Veterinarian",
+    "Skills": "Animal Care, Diagnostics, Surgery, Communication",
+    "Role": "Provides medical care for animals",
+    "Responsibilities": "Diagnose illnesses, treat injuries, perform surgeries",
+    "Degree": "Doctor of Veterinary Medicine (DVM)",
+    "job_description": "The Veterinarian role focuses on Provides medical care for animals. This position requires strong proficiency in Animal Care, Diagnostics, Surgery, Communication. Key responsibilities include Diagnose illnesses, treat injuries, perform surgeries. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Event Coordinator",
+    "Skills": "Organization, Vendor Management, Communication",
+    "Role": "Supports planning and execution of events",
+    "Responsibilities": "Coordinate vendors, manage schedules, assist during events",
+    "Degree": "Bachelor's in Hospitality or related",
+    "job_description": "The Event Coordinator role focuses on Supports planning and execution of events. This position requires strong proficiency in Organization, Vendor Management, Communication. Key responsibilities include Coordinate vendors, manage schedules, assist during events. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Social Worker",
+    "Skills": "Counseling, Communication, Empathy",
+    "Role": "Supports individuals and communities",
+    "Responsibilities": "Assess needs, provide counseling, connect clients to resources",
+    "Degree": "Bachelor's in Social Work",
+    "job_description": "The Social Worker role focuses on Supports individuals and communities. This position requires strong proficiency in Counseling, Communication, Empathy. Key responsibilities include Assess needs, provide counseling, connect clients to resources. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Financial Planner",
+    "Skills": "Financial Analysis, Investment Knowledge, Communication",
+    "Role": "Creates long-term financial plans for clients",
+    "Responsibilities": "Analyze financial status, recommend investments, track goals",
+    "Degree": "Bachelor's in Finance or related",
+    "job_description": "The Financial Planner role focuses on Creates long-term financial plans for clients. This position requires strong proficiency in Financial Analysis, Investment Knowledge, Communication. Key responsibilities include Analyze financial status, recommend investments, track goals. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Mechanical Designer",
+    "Skills": "CAD Software, Materials Science, Drafting",
+    "Role": "Designs mechanical parts and assemblies",
+    "Responsibilities": "Create detailed drawings, collaborate with engineers, ensure design accuracy",
+    "Degree": "Bachelor's in Mechanical Engineering or related",
+    "job_description": "The Mechanical Designer role focuses on Designs mechanical parts and assemblies. This position requires strong proficiency in CAD Software, Materials Science, Drafting. Key responsibilities include Create detailed drawings, collaborate with engineers, ensure design accuracy. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Email Marketing Specialist",
+    "Skills": "Email Campaign Management, Copywriting, Analytics, Marketing Automation",
+    "Role": "Designs and manages email marketing campaigns",
+    "Responsibilities": "Write email content, segment lists, analyze campaign results",
+    "Degree": "Bachelor's in Marketing or Communications",
+    "job_description": "The Email Marketing Specialist role focuses on Designs and manages email marketing campaigns. This position requires strong proficiency in Email Campaign Management, Copywriting, Analytics, Marketing Automation. Key responsibilities include Write email content, segment lists, analyze campaign results. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Legal Assistant",
+    "Skills": "Legal Research, Document Management, Communication",
+    "Role": "Supports lawyers with legal tasks",
+    "Responsibilities": "Draft documents, manage case files, conduct research",
+    "Degree": "Associate/Bachelor's in Legal Studies",
+    "job_description": "The Legal Assistant role focuses on Supports lawyers with legal tasks. This position requires strong proficiency in Legal Research, Document Management, Communication. Key responsibilities include Draft documents, manage case files, conduct research. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Administrative Assistant",
+    "Skills": "Organization, Communication, Scheduling",
+    "Role": "Provides clerical support",
+    "Responsibilities": "Manage calendars, prepare reports, handle correspondence",
+    "Degree": "High School Diploma or Associate's",
+    "job_description": "The Administrative Assistant role focuses on Provides clerical support. This position requires strong proficiency in Organization, Communication, Scheduling. Key responsibilities include Manage calendars, prepare reports, handle correspondence. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Network Administrator",
+    "Skills": "Networking, Security, Troubleshooting",
+    "Role": "Maintains computer networks",
+    "Responsibilities": "Configure hardware/software, monitor network, troubleshoot",
+    "Degree": "Bachelor's in IT or related",
+    "job_description": "The Network Administrator role focuses on Maintains computer networks. This position requires strong proficiency in Networking, Security, Troubleshooting. Key responsibilities include Configure hardware/software, monitor network, troubleshoot. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Chemical Engineer",
+    "Skills": "Process Design, Safety Standards, Simulation Software",
+    "Role": "Designs chemical processes",
+    "Responsibilities": "Develop process improvements, ensure safety compliance",
+    "Degree": "Bachelor's in Chemical Engineering",
+    "job_description": "The Chemical Engineer role focuses on Designs chemical processes. This position requires strong proficiency in Process Design, Safety Standards, Simulation Software. Key responsibilities include Develop process improvements, ensure safety compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Procurement Manager",
+    "Skills": "Vendor Negotiation, Cost Analysis, Supply Chain Management",
+    "Role": "Oversees purchasing department",
+    "Responsibilities": "Manage suppliers, negotiate contracts, optimize procurement",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Procurement Manager role focuses on Oversees purchasing department. This position requires strong proficiency in Vendor Negotiation, Cost Analysis, Supply Chain Management. Key responsibilities include Manage suppliers, negotiate contracts, optimize procurement. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Social Media Coordinator",
+    "Skills": "Content Creation, Scheduling, Analytics",
+    "Role": "Manages social media presence",
+    "Responsibilities": "Create and schedule posts, analyze engagement, support campaigns",
+    "Degree": "Bachelor's in Marketing or Communications",
+    "job_description": "The Social Media Coordinator role focuses on Manages social media presence. This position requires strong proficiency in Content Creation, Scheduling, Analytics. Key responsibilities include Create and schedule posts, analyze engagement, support campaigns. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Paralegal",
+    "Skills": "Legal Research, Documentation, Case Preparation",
+    "Role": "Assists lawyers",
+    "Responsibilities": "Prepare legal documents, organize files, conduct research",
+    "Degree": "Associate/Bachelor's in Paralegal Studies",
+    "job_description": "The Paralegal role focuses on Assists lawyers. This position requires strong proficiency in Legal Research, Documentation, Case Preparation. Key responsibilities include Prepare legal documents, organize files, conduct research. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Marketing Analyst",
+    "Skills": "Data Analysis, Market Research, Excel",
+    "Role": "Supports marketing strategy",
+    "Responsibilities": "Analyze market data, track campaign performance",
+    "Degree": "Bachelor's in Marketing or Business",
+    "job_description": "The Marketing Analyst role focuses on Supports marketing strategy. This position requires strong proficiency in Data Analysis, Market Research, Excel. Key responsibilities include Analyze market data, track campaign performance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "UI/UX Designer",
+    "Skills": "User Research, Wireframing, Prototyping",
+    "Role": "Designs user interfaces",
+    "Responsibilities": "Conduct user testing, create prototypes, collaborate with teams",
+    "Degree": "Bachelor's in Design or related",
+    "job_description": "The UI/UX Designer role focuses on Designs user interfaces. This position requires strong proficiency in User Research, Wireframing, Prototyping. Key responsibilities include Conduct user testing, create prototypes, collaborate with teams. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Physician Assistant",
+    "Skills": "Medical Knowledge, Patient Care, Diagnostics",
+    "Role": "Provides healthcare under physician supervision",
+    "Responsibilities": "Perform exams, diagnose, prescribe treatments",
+    "Degree": "Master's in Physician Assistant Studies",
+    "job_description": "The Physician Assistant role focuses on Provides healthcare under physician supervision. This position requires strong proficiency in Medical Knowledge, Patient Care, Diagnostics. Key responsibilities include Perform exams, diagnose, prescribe treatments. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Landscape Architect",
+    "Skills": "Design, Environmental Planning, CAD",
+    "Role": "Designs outdoor spaces",
+    "Responsibilities": "Create landscape plans, coordinate with clients, ensure sustainability",
+    "Degree": "Bachelor's in Landscape Architecture",
+    "job_description": "The Landscape Architect role focuses on Designs outdoor spaces. This position requires strong proficiency in Design, Environmental Planning, CAD. Key responsibilities include Create landscape plans, coordinate with clients, ensure sustainability. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Sales Manager",
+    "Skills": "Sales Strategy, Leadership, CRM",
+    "Role": "Leads sales team",
+    "Responsibilities": "Set sales targets, coach team, analyze performance",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Sales Manager role focuses on Leads sales team. This position requires strong proficiency in Sales Strategy, Leadership, CRM. Key responsibilities include Set sales targets, coach team, analyze performance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "UX Researcher",
+    "Skills": "User Research, Data Analysis, Interviewing",
+    "Role": "Studies user behavior",
+    "Responsibilities": "Conduct user interviews, analyze data, report findings",
+    "Degree": "Bachelor's in Psychology, HCI, or related",
+    "job_description": "The UX Researcher role focuses on Studies user behavior. This position requires strong proficiency in User Research, Data Analysis, Interviewing. Key responsibilities include Conduct user interviews, analyze data, report findings. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Physical Therapist",
+    "Skills": "Rehabilitation, Patient Care, Exercise Science",
+    "Role": "Helps patients recover mobility",
+    "Responsibilities": "Develop therapy plans, guide exercises, monitor progress",
+    "Degree": "Doctorate in Physical Therapy",
+    "job_description": "The Physical Therapist role focuses on Helps patients recover mobility. This position requires strong proficiency in Rehabilitation, Patient Care, Exercise Science. Key responsibilities include Develop therapy plans, guide exercises, monitor progress. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Account Manager",
+    "Skills": "Client Relationship, Sales, Communication",
+    "Role": "Manages client accounts",
+    "Responsibilities": "Maintain relationships, upsell products, ensure client satisfaction",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Account Manager role focuses on Manages client accounts. This position requires strong proficiency in Client Relationship, Sales, Communication. Key responsibilities include Maintain relationships, upsell products, ensure client satisfaction. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Software Architect",
+    "Skills": "Software Design, System Architecture, Leadership",
+    "Role": "Designs high-level software frameworks",
+    "Responsibilities": "Define software architecture, guide development teams",
+    "Degree": "Bachelor's/Master's in CS or related",
+    "job_description": "The Software Architect role focuses on Designs high-level software frameworks. This position requires strong proficiency in Software Design, System Architecture, Leadership. Key responsibilities include Define software architecture, guide development teams. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Data Entry Clerk",
+    "Skills": "Typing, Attention to Detail, Data Management",
+    "Role": "Inputs and maintains data",
+    "Responsibilities": "Enter data, verify accuracy, update databases",
+    "Degree": "High School Diploma or Associate's",
+    "job_description": "The Data Entry Clerk role focuses on Inputs and maintains data. This position requires strong proficiency in Typing, Attention to Detail, Data Management. Key responsibilities include Enter data, verify accuracy, update databases. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Investment Banker",
+    "Skills": "Financial Modeling, Valuation, Negotiation",
+    "Role": "Facilitates capital raising and mergers",
+    "Responsibilities": "Prepare pitch books, analyze companies, negotiate deals",
+    "Degree": "Bachelor's in Finance or related",
+    "job_description": "The Investment Banker role focuses on Facilitates capital raising and mergers. This position requires strong proficiency in Financial Modeling, Valuation, Negotiation. Key responsibilities include Prepare pitch books, analyze companies, negotiate deals. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Market Research Analyst",
+    "Skills": "Survey Design, Data Analysis, Reporting",
+    "Role": "Studies market conditions",
+    "Responsibilities": "Collect and analyze data, prepare reports",
+    "Degree": "Bachelor's in Marketing, Statistics, or related",
+    "job_description": "The Market Research Analyst role focuses on Studies market conditions. This position requires strong proficiency in Survey Design, Data Analysis, Reporting. Key responsibilities include Collect and analyze data, prepare reports. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Back-End Developer",
+    "Skills": "Server-side Languages, Databases, APIs",
+    "Role": "Develops server-side application logic",
+    "Responsibilities": "Build APIs, manage databases, integrate front-end",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The Back-End Developer role focuses on Develops server-side application logic. This position requires strong proficiency in Server-side Languages, Databases, APIs. Key responsibilities include Build APIs, manage databases, integrate front-end. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Registered Nurse",
+    "Skills": "Patient Care, Medical Knowledge, Communication",
+    "Role": "Provides nursing care",
+    "Responsibilities": "Monitor patients, administer medication, educate patients",
+    "Degree": "Nursing Degree, RN License",
+    "job_description": "The Registered Nurse role focuses on Provides nursing care. This position requires strong proficiency in Patient Care, Medical Knowledge, Communication. Key responsibilities include Monitor patients, administer medication, educate patients. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Wedding Planner",
+    "Skills": "Organization, Vendor Management, Communication",
+    "Role": "Plans and coordinates weddings",
+    "Responsibilities": "Schedule vendors, manage budgets, coordinate events",
+    "Degree": "Bachelor's in Hospitality or related",
+    "job_description": "The Wedding Planner role focuses on Plans and coordinates weddings. This position requires strong proficiency in Organization, Vendor Management, Communication. Key responsibilities include Schedule vendors, manage budgets, coordinate events. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Substance Abuse Counselor",
+    "Skills": "Counseling, Communication, Empathy",
+    "Role": "Supports individuals with addiction",
+    "Responsibilities": "Provide therapy, develop treatment plans, monitor progress",
+    "Degree": "Bachelor's in Psychology, Social Work, or related",
+    "job_description": "The Substance Abuse Counselor role focuses on Supports individuals with addiction. This position requires strong proficiency in Counseling, Communication, Empathy. Key responsibilities include Provide therapy, develop treatment plans, monitor progress. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Data Engineer",
+    "Skills": "SQL, ETL, Big Data Tools, Python",
+    "Role": "Designs and maintains data pipelines",
+    "Responsibilities": "Build data workflows, optimize data storage, ensure data quality",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The Data Engineer role focuses on Designs and maintains data pipelines. This position requires strong proficiency in SQL, ETL, Big Data Tools, Python. Key responsibilities include Build data workflows, optimize data storage, ensure data quality. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Product Designer",
+    "Skills": "UX/UI, Prototyping, User Research",
+    "Role": "Designs product experiences",
+    "Responsibilities": "Create wireframes, conduct user testing, iterate designs",
+    "Degree": "Bachelor's in Design or related",
+    "job_description": "The Product Designer role focuses on Designs product experiences. This position requires strong proficiency in UX/UI, Prototyping, User Research. Key responsibilities include Create wireframes, conduct user testing, iterate designs. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Business Development Manager",
+    "Skills": "Sales, Negotiation, Market Research",
+    "Role": "Grows company business",
+    "Responsibilities": "Identify opportunities, build client relationships, close deals",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Business Development Manager role focuses on Grows company business. This position requires strong proficiency in Sales, Negotiation, Market Research. Key responsibilities include Identify opportunities, build client relationships, close deals. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Customer Service Rep",
+    "Skills": "Communication, Problem Solving, CRM",
+    "Role": "Assists customers",
+    "Responsibilities": "Handle inquiries, resolve complaints, document issues",
+    "Degree": "High School Diploma or Associate's",
+    "job_description": "The Customer Service Rep role focuses on Assists customers. This position requires strong proficiency in Communication, Problem Solving, CRM. Key responsibilities include Handle inquiries, resolve complaints, document issues. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Systems Analyst",
+    "Skills": "Systems Analysis, Communication, Documentation",
+    "Role": "Analyzes and improves IT systems",
+    "Responsibilities": "Gather requirements, create documentation, liaise between users and developers",
+    "Degree": "Bachelor's in IT, CS, or related",
+    "job_description": "The Systems Analyst role focuses on Analyzes and improves IT systems. This position requires strong proficiency in Systems Analysis, Communication, Documentation. Key responsibilities include Gather requirements, create documentation, liaise between users and developers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Environmental Engineer",
+    "Skills": "Environmental Science, Regulation Compliance, Data Analysis",
+    "Role": "Designs solutions to environmental issues",
+    "Responsibilities": "Conduct impact assessments, develop remediation plans",
+    "Degree": "Bachelor's in Environmental Engineering",
+    "job_description": "The Environmental Engineer role focuses on Designs solutions to environmental issues. This position requires strong proficiency in Environmental Science, Regulation Compliance, Data Analysis. Key responsibilities include Conduct impact assessments, develop remediation plans. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Purchasing Agent",
+    "Skills": "Negotiation, Vendor Relations, Inventory Management",
+    "Role": "Buys goods and services for company",
+    "Responsibilities": "Source suppliers, negotiate prices, track orders",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Purchasing Agent role focuses on Buys goods and services for company. This position requires strong proficiency in Negotiation, Vendor Relations, Inventory Management. Key responsibilities include Source suppliers, negotiate prices, track orders. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Content Marketing Manager",
+    "Skills": "SEO, Content Strategy, Analytics",
+    "Role": "Develops and manages content marketing campaigns",
+    "Responsibilities": "Plan content, coordinate with writers, analyze traffic",
+    "Degree": "Bachelor's in Marketing or Communications",
+    "job_description": "The Content Marketing Manager role focuses on Develops and manages content marketing campaigns. This position requires strong proficiency in SEO, Content Strategy, Analytics. Key responsibilities include Plan content, coordinate with writers, analyze traffic. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Legal Secretary",
+    "Skills": "Legal Documentation, Typing, Organization",
+    "Role": "Supports legal staff with clerical tasks",
+    "Responsibilities": "Prepare legal documents, manage files, schedule appointments",
+    "Degree": "Associate's in Legal Studies or related",
+    "job_description": "The Legal Secretary role focuses on Supports legal staff with clerical tasks. This position requires strong proficiency in Legal Documentation, Typing, Organization. Key responsibilities include Prepare legal documents, manage files, schedule appointments. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "HR Manager",
+    "Skills": "Recruitment, Employee Relations, Labor Laws",
+    "Role": "Oversees HR department",
+    "Responsibilities": "Manage hiring, employee relations, compliance",
+    "Degree": "Bachelor's in HR or related",
+    "job_description": "The HR Manager role focuses on Oversees HR department. This position requires strong proficiency in Recruitment, Employee Relations, Labor Laws. Key responsibilities include Manage hiring, employee relations, compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Structural Engineer",
+    "Skills": "Structural Analysis, CAD, Project Management",
+    "Role": "Designs and supervises building structures",
+    "Responsibilities": "Prepare structural plans, inspect sites",
+    "Degree": "Bachelor's in Civil or Structural Engineering",
+    "job_description": "The Structural Engineer role focuses on Designs and supervises building structures. This position requires strong proficiency in Structural Analysis, CAD, Project Management. Key responsibilities include Prepare structural plans, inspect sites. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Supply Chain Analyst",
+    "Skills": "Data Analysis, ERP, Logistics",
+    "Role": "Optimizes supply chain performance",
+    "Responsibilities": "Analyze supply chain data, identify improvements",
+    "Degree": "Bachelor's in Supply Chain or Business",
+    "job_description": "The Supply Chain Analyst role focuses on Optimizes supply chain performance. This position requires strong proficiency in Data Analysis, ERP, Logistics. Key responsibilities include Analyze supply chain data, identify improvements. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Art Teacher",
+    "Skills": "Art Techniques, Curriculum Design, Communication",
+    "Role": "Teaches art to students",
+    "Responsibilities": "Prepare lessons, instruct students, assess progress",
+    "Degree": "Bachelor's in Education or Fine Arts",
+    "job_description": "The Art Teacher role focuses on Teaches art to students. This position requires strong proficiency in Art Techniques, Curriculum Design, Communication. Key responsibilities include Prepare lessons, instruct students, assess progress. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Sales Associate",
+    "Skills": "Customer Service, Product Knowledge, Communication",
+    "Role": "Assists customers with purchases",
+    "Responsibilities": "Greet customers, recommend products, handle transactions",
+    "Degree": "High School Diploma or Associate's",
+    "job_description": "The Sales Associate role focuses on Assists customers with purchases. This position requires strong proficiency in Customer Service, Product Knowledge, Communication. Key responsibilities include Greet customers, recommend products, handle transactions. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "QA Engineer",
+    "Skills": "Testing, Automation, Bug Tracking",
+    "Role": "Ensures software quality",
+    "Responsibilities": "Develop test cases, automate testing, report bugs",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The QA Engineer role focuses on Ensures software quality. This position requires strong proficiency in Testing, Automation, Bug Tracking. Key responsibilities include Develop test cases, automate testing, report bugs. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Brand Ambassador",
+    "Skills": "Communication, Marketing, Public Speaking",
+    "Role": "Represents brand in public",
+    "Responsibilities": "Promote products, attend events, engage with customers",
+    "Degree": "High School Diploma or Bachelor's",
+    "job_description": "The Brand Ambassador role focuses on Represents brand in public. This position requires strong proficiency in Communication, Marketing, Public Speaking. Key responsibilities include Promote products, attend events, engage with customers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Technical Writer",
+    "Skills": "Writing, Technical Knowledge, Research",
+    "Role": "Creates technical documentation",
+    "Responsibilities": "Write manuals, guides, specs",
+    "Degree": "Bachelor's in English, Communications, or related",
+    "job_description": "The Technical Writer role focuses on Creates technical documentation. This position requires strong proficiency in Writing, Technical Knowledge, Research. Key responsibilities include Write manuals, guides, specs. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Psychologist",
+    "Skills": "Counseling, Research, Communication",
+    "Role": "Provides mental health support",
+    "Responsibilities": "Assess patients, provide therapy, conduct research",
+    "Degree": "Master's or Doctorate in Psychology",
+    "job_description": "The Psychologist role focuses on Provides mental health support. This position requires strong proficiency in Counseling, Research, Communication. Key responsibilities include Assess patients, provide therapy, conduct research. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Investment Advisor",
+    "Skills": "Financial Planning, Communication",
+    "Role": "Advises clients on investments",
+    "Responsibilities": "Develop plans, recommend investments",
+    "Degree": "Bachelor's in Finance or related",
+    "job_description": "The Investment Advisor role focuses on Advises clients on investments. This position requires strong proficiency in Financial Planning, Communication. Key responsibilities include Develop plans, recommend investments. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Market Analyst",
+    "Skills": "Market Research, Data Analysis",
+    "Role": "Analyzes market conditions",
+    "Responsibilities": "Collect data, analyze trends",
+    "Degree": "Bachelor's in Marketing or related",
+    "job_description": "The Market Analyst role focuses on Analyzes market conditions. This position requires strong proficiency in Market Research, Data Analysis. Key responsibilities include Collect data, analyze trends. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Full Stack Developer",
+    "Skills": "Front-end & Back-end Development, Databases",
+    "Role": "Develops complete web applications",
+    "Responsibilities": "Build UI, server, and database components",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The Full Stack Developer role focuses on Develops complete web applications. This position requires strong proficiency in Front-end & Back-end Development, Databases. Key responsibilities include Build UI, server, and database components. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Family Nurse Practitioner",
+    "Skills": "Patient Care, Diagnostics, Communication",
+    "Role": "Provides advanced nursing care",
+    "Responsibilities": "Diagnose, treat, educate patients",
+    "Degree": "Master's or Doctorate in Nursing",
+    "job_description": "The Family Nurse Practitioner role focuses on Provides advanced nursing care. This position requires strong proficiency in Patient Care, Diagnostics, Communication. Key responsibilities include Diagnose, treat, educate patients. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Urban Planner",
+    "Skills": "GIS, Zoning Laws, Urban Design",
+    "Role": "Plans urban development",
+    "Responsibilities": "Develop plans, conduct analysis, liaise with stakeholders",
+    "Degree": "Bachelor's in Urban Planning or related",
+    "job_description": "The Urban Planner role focuses on Plans urban development. This position requires strong proficiency in GIS, Zoning Laws, Urban Design. Key responsibilities include Develop plans, conduct analysis, liaise with stakeholders. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Marketing Director",
+    "Skills": "Marketing Strategy, Leadership, Budgeting",
+    "Role": "Leads marketing department",
+    "Responsibilities": "Develop strategy, manage teams, oversee campaigns",
+    "Degree": "Bachelor's in Marketing or Business",
+    "job_description": "The Marketing Director role focuses on Leads marketing department. This position requires strong proficiency in Marketing Strategy, Leadership, Budgeting. Key responsibilities include Develop strategy, manage teams, oversee campaigns. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "UI/UX Developer",
+    "Skills": "UI Development, UX Design, JavaScript",
+    "Role": "Develops user interfaces with UX principles",
+    "Responsibilities": "Build UI components, improve user experience",
+    "Degree": "Bachelor's in CS, Design, or related",
+    "job_description": "The UI/UX Developer role focuses on Develops user interfaces with UX principles. This position requires strong proficiency in UI Development, UX Design, JavaScript. Key responsibilities include Build UI components, improve user experience. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Speech Therapist",
+    "Skills": "Communication Disorders, Therapy Techniques",
+    "Role": "Provides speech therapy",
+    "Responsibilities": "Assess and treat speech disorders",
+    "Degree": "Master's in Speech-Language Pathology",
+    "job_description": "The Speech Therapist role focuses on Provides speech therapy. This position requires strong proficiency in Communication Disorders, Therapy Techniques. Key responsibilities include Assess and treat speech disorders. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Key Account Manager",
+    "Skills": "Sales, Relationship Management",
+    "Role": "Manages major client accounts",
+    "Responsibilities": "Build relationships, negotiate contracts",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Key Account Manager role focuses on Manages major client accounts. This position requires strong proficiency in Sales, Relationship Management. Key responsibilities include Build relationships, negotiate contracts. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Finance Manager",
+    "Skills": "Financial Reporting, Budgeting, Leadership",
+    "Role": "Oversees financial operations",
+    "Responsibilities": "Prepare reports, manage budgets, lead finance team",
+    "Degree": "Bachelor's in Finance or Accounting",
+    "job_description": "The Finance Manager role focuses on Oversees financial operations. This position requires strong proficiency in Financial Reporting, Budgeting, Leadership. Key responsibilities include Prepare reports, manage budgets, lead finance team. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Network Technician",
+    "Skills": "Networking, Hardware, Troubleshooting",
+    "Role": "Maintains network infrastructure",
+    "Responsibilities": "Install equipment, monitor network, resolve issues",
+    "Degree": "Associate's or Bachelor's in IT or related",
+    "job_description": "The Network Technician role focuses on Maintains network infrastructure. This position requires strong proficiency in Networking, Hardware, Troubleshooting. Key responsibilities include Install equipment, monitor network, resolve issues. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Electrical Designer",
+    "Skills": "Electrical CAD, Circuit Design",
+    "Role": "Designs electrical systems",
+    "Responsibilities": "Create design plans, collaborate with engineers",
+    "Degree": "Bachelor's in Electrical Engineering",
+    "job_description": "The Electrical Designer role focuses on Designs electrical systems. This position requires strong proficiency in Electrical CAD, Circuit Design. Key responsibilities include Create design plans, collaborate with engineers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Materials Manager",
+    "Skills": "Inventory Management, Procurement",
+    "Role": "Manages raw materials and inventory",
+    "Responsibilities": "Monitor stock, coordinate with suppliers",
+    "Degree": "Bachelor's in Supply Chain or related",
+    "job_description": "The Materials Manager role focuses on Manages raw materials and inventory. This position requires strong proficiency in Inventory Management, Procurement. Key responsibilities include Monitor stock, coordinate with suppliers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "SEM Specialist",
+    "Skills": "Search Engine Marketing, PPC, Analytics",
+    "Role": "Manages paid search campaigns",
+    "Responsibilities": "Create ads, optimize bids, analyze performance",
+    "Degree": "Bachelor's in Marketing or related",
+    "job_description": "The SEM Specialist role focuses on Manages paid search campaigns. This position requires strong proficiency in Search Engine Marketing, PPC, Analytics. Key responsibilities include Create ads, optimize bids, analyze performance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Personal Assistant",
+    "Skills": "Organization, Communication, Time Management",
+    "Role": "Supports executives or individuals",
+    "Responsibilities": "Manage schedules, coordinate activities",
+    "Degree": "High School Diploma or Associate's",
+    "job_description": "The Personal Assistant role focuses on Supports executives or individuals. This position requires strong proficiency in Organization, Communication, Time Management. Key responsibilities include Manage schedules, coordinate activities. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "IT Administrator",
+    "Skills": "System Administration, Security, Troubleshooting",
+    "Role": "Maintains IT systems",
+    "Responsibilities": "Configure servers, manage backups, support users",
+    "Degree": "Bachelor's in IT or related",
+    "job_description": "The IT Administrator role focuses on Maintains IT systems. This position requires strong proficiency in System Administration, Security, Troubleshooting. Key responsibilities include Configure servers, manage backups, support users. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Aerospace Engineer",
+    "Skills": "Aerodynamics, CAD, Materials Science",
+    "Role": "Designs aircraft and spacecraft",
+    "Responsibilities": "Develop prototypes, perform tests",
+    "Degree": "Bachelor's in Aerospace Engineering",
+    "job_description": "The Aerospace Engineer role focuses on Designs aircraft and spacecraft. This position requires strong proficiency in Aerodynamics, CAD, Materials Science. Key responsibilities include Develop prototypes, perform tests. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Procurement Coordinator",
+    "Skills": "Vendor Relations, Order Processing",
+    "Role": "Coordinates purchasing activities",
+    "Responsibilities": "Process purchase orders, liaise with vendors",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Procurement Coordinator role focuses on Coordinates purchasing activities. This position requires strong proficiency in Vendor Relations, Order Processing. Key responsibilities include Process purchase orders, liaise with vendors. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Social Media Specialist",
+    "Skills": "Content Creation, SEO, Analytics",
+    "Role": "Develops social media content and strategy",
+    "Responsibilities": "Create posts, analyze metrics, engage audience",
+    "Degree": "Bachelor's in Marketing or Communications",
+    "job_description": "The Social Media Specialist role focuses on Develops social media content and strategy. This position requires strong proficiency in Content Creation, SEO, Analytics. Key responsibilities include Create posts, analyze metrics, engage audience. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Litigation Attorney",
+    "Skills": "Legal Research, Trial Preparation, Negotiation",
+    "Role": "Represents clients in legal disputes",
+    "Responsibilities": "Prepare cases, argue in court, negotiate settlements",
+    "Degree": "JD or equivalent law degree",
+    "job_description": "The Litigation Attorney role focuses on Represents clients in legal disputes. This position requires strong proficiency in Legal Research, Trial Preparation, Negotiation. Key responsibilities include Prepare cases, argue in court, negotiate settlements. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Office Manager",
+    "Skills": "Office Administration, Communication, Scheduling",
+    "Role": "Oversees office operations",
+    "Responsibilities": "Manage staff, organize office resources, coordinate activities",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Office Manager role focuses on Oversees office operations. This position requires strong proficiency in Office Administration, Communication, Scheduling. Key responsibilities include Manage staff, organize office resources, coordinate activities. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Network Security Specialist",
+    "Skills": "Cybersecurity, Firewall Management, Intrusion Detection",
+    "Role": "Protects network from threats",
+    "Responsibilities": "Monitor security systems, respond to breaches, enforce policies",
+    "Degree": "Bachelor's in Cybersecurity or related",
+    "job_description": "The Network Security Specialist role focuses on Protects network from threats. This position requires strong proficiency in Cybersecurity, Firewall Management, Intrusion Detection. Key responsibilities include Monitor security systems, respond to breaches, enforce policies. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Process Engineer",
+    "Skills": "Process Optimization, Data Analysis, Equipment Design",
+    "Role": "Improves manufacturing processes",
+    "Responsibilities": "Analyze workflows, implement improvements, ensure quality",
+    "Degree": "Bachelor's in Engineering or related",
+    "job_description": "The Process Engineer role focuses on Improves manufacturing processes. This position requires strong proficiency in Process Optimization, Data Analysis, Equipment Design. Key responsibilities include Analyze workflows, implement improvements, ensure quality. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Event Manager",
+    "Skills": "Event Planning, Vendor Management, Budgeting",
+    "Role": "Plans and manages events",
+    "Responsibilities": "Coordinate logistics, manage teams, oversee event execution",
+    "Degree": "Bachelor's in Hospitality or related",
+    "job_description": "The Event Manager role focuses on Plans and manages events. This position requires strong proficiency in Event Planning, Vendor Management, Budgeting. Key responsibilities include Coordinate logistics, manage teams, oversee event execution. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "HR Generalist",
+    "Skills": "Recruitment, Employee Relations, Compliance",
+    "Role": "Manages HR activities",
+    "Responsibilities": "Handle hiring, benefits, employee issues",
+    "Degree": "Bachelor's in HR or related",
+    "job_description": "The HR Generalist role focuses on Manages HR activities. This position requires strong proficiency in Recruitment, Employee Relations, Compliance. Key responsibilities include Handle hiring, benefits, employee issues. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Customer Service Manager",
+    "Skills": "Customer Service, Leadership, Conflict Resolution",
+    "Role": "Oversees customer service team",
+    "Responsibilities": "Manage staff, resolve escalations, ensure quality service",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Customer Service Manager role focuses on Oversees customer service team. This position requires strong proficiency in Customer Service, Leadership, Conflict Resolution. Key responsibilities include Manage staff, resolve escalations, ensure quality service. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Database Developer",
+    "Skills": "SQL, Database Design, Programming",
+    "Role": "Develops and maintains databases",
+    "Responsibilities": "Write stored procedures, optimize queries, design schemas",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The Database Developer role focuses on Develops and maintains databases. This position requires strong proficiency in SQL, Database Design, Programming. Key responsibilities include Write stored procedures, optimize queries, design schemas. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Marketing Specialist",
+    "Skills": "Campaign Management, SEO, Analytics",
+    "Role": "Executes marketing campaigns",
+    "Responsibilities": "Plan ads, create content, analyze data",
+    "Degree": "Bachelor's in Marketing or Communications",
+    "job_description": "The Marketing Specialist role focuses on Executes marketing campaigns. This position requires strong proficiency in Campaign Management, SEO, Analytics. Key responsibilities include Plan ads, create content, analyze data. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Web Designer",
+    "Skills": "HTML, CSS, Graphic Design",
+    "Role": "Designs website layouts",
+    "Responsibilities": "Create visuals, optimize UX, collaborate with developers",
+    "Degree": "Bachelor's in Graphic/Web Design or related",
+    "job_description": "The Web Designer role focuses on Designs website layouts. This position requires strong proficiency in HTML, CSS, Graphic Design. Key responsibilities include Create visuals, optimize UX, collaborate with developers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Pediatrician",
+    "Skills": "Medical Knowledge, Child Care, Diagnostics",
+    "Role": "Provides medical care to children",
+    "Responsibilities": "Diagnose illnesses, prescribe treatment, counsel parents",
+    "Degree": "Doctor of Medicine (MD)",
+    "job_description": "The Pediatrician role focuses on Provides medical care to children. This position requires strong proficiency in Medical Knowledge, Child Care, Diagnostics. Key responsibilities include Diagnose illnesses, prescribe treatment, counsel parents. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Landscape Designer",
+    "Skills": "Design, Horticulture, CAD",
+    "Role": "Designs outdoor spaces",
+    "Responsibilities": "Develop plans, select plants, work with clients",
+    "Degree": "Bachelor's in Landscape Design or related",
+    "job_description": "The Landscape Designer role focuses on Designs outdoor spaces. This position requires strong proficiency in Design, Horticulture, CAD. Key responsibilities include Develop plans, select plants, work with clients. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Sales Consultant",
+    "Skills": "Product Knowledge, Communication, Negotiation",
+    "Role": "Advises customers and closes sales",
+    "Responsibilities": "Understand client needs, recommend products, negotiate deals",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Sales Consultant role focuses on Advises customers and closes sales. This position requires strong proficiency in Product Knowledge, Communication, Negotiation. Key responsibilities include Understand client needs, recommend products, negotiate deals. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "QA Analyst",
+    "Skills": "Testing, Automation, Bug Tracking",
+    "Role": "Ensures software quality",
+    "Responsibilities": "Execute tests, report defects, verify fixes",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The QA Analyst role focuses on Ensures software quality. This position requires strong proficiency in Testing, Automation, Bug Tracking. Key responsibilities include Execute tests, report defects, verify fixes. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Copywriter",
+    "Skills": "Writing, SEO, Creativity",
+    "Role": "Creates marketing content",
+    "Responsibilities": "Write ads, blogs, social media posts",
+    "Degree": "Bachelor's in English, Marketing, or related",
+    "job_description": "The Copywriter role focuses on Creates marketing content. This position requires strong proficiency in Writing, SEO, Creativity. Key responsibilities include Write ads, blogs, social media posts. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Architectural Designer",
+    "Skills": "CAD, Building Codes, Design Principles",
+    "Role": "Designs building elements",
+    "Responsibilities": "Create design plans, coordinate with architects and engineers",
+    "Degree": "Bachelor's in Architecture or related",
+    "job_description": "The Architectural Designer role focuses on Designs building elements. This position requires strong proficiency in CAD, Building Codes, Design Principles. Key responsibilities include Create design plans, coordinate with architects and engineers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Account Director",
+    "Skills": "Client Management, Sales Strategy, Communication",
+    "Role": "Leads client accounts and teams",
+    "Responsibilities": "Develop relationships, oversee projects, manage budgets",
+    "Degree": "Bachelor's in Business or related",
+    "job_description": "The Account Director role focuses on Leads client accounts and teams. This position requires strong proficiency in Client Management, Sales Strategy, Communication. Key responsibilities include Develop relationships, oversee projects, manage budgets. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Java Developer",
+    "Skills": "Java, Spring Framework, SQL",
+    "Role": "Develops Java applications",
+    "Responsibilities": "Write code, maintain applications, collaborate with teams",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The Java Developer role focuses on Develops Java applications. This position requires strong proficiency in Java, Spring Framework, SQL. Key responsibilities include Write code, maintain applications, collaborate with teams. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Systems Engineer",
+    "Skills": "Systems Design, Networking, Troubleshooting",
+    "Role": "Designs and supports IT systems",
+    "Responsibilities": "Implement systems, monitor performance, troubleshoot issues",
+    "Degree": "Bachelor's in IT or related",
+    "job_description": "The Systems Engineer role focuses on Designs and supports IT systems. This position requires strong proficiency in Systems Design, Networking, Troubleshooting. Key responsibilities include Implement systems, monitor performance, troubleshoot issues. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Radiologic Technologist",
+    "Skills": "Medical Imaging, Patient Care, Safety",
+    "Role": "Performs diagnostic imaging",
+    "Responsibilities": "Operate imaging equipment, prepare patients, maintain records",
+    "Degree": "Associate's or Bachelor's in Radiologic Technology",
+    "job_description": "The Radiologic Technologist role focuses on Performs diagnostic imaging. This position requires strong proficiency in Medical Imaging, Patient Care, Safety. Key responsibilities include Operate imaging equipment, prepare patients, maintain records. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Environmental Scientist",
+    "Skills": "Data Analysis, Field Work, Report Writing",
+    "Role": "Conducts environmental research",
+    "Responsibilities": "Collect samples, analyze data, prepare reports",
+    "Degree": "Bachelor's in Environmental Science or related",
+    "job_description": "The Environmental Scientist role focuses on Conducts environmental research. This position requires strong proficiency in Data Analysis, Field Work, Report Writing. Key responsibilities include Collect samples, analyze data, prepare reports. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Health Educator",
+    "Skills": "Public Health, Communication, Program Planning",
+    "Role": "Promotes health education",
+    "Responsibilities": "Develop programs, conduct workshops, evaluate outcomes",
+    "Degree": "Bachelor's in Public Health or related",
+    "job_description": "The Health Educator role focuses on Promotes health education. This position requires strong proficiency in Public Health, Communication, Program Planning. Key responsibilities include Develop programs, conduct workshops, evaluate outcomes. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Travel Agent",
+    "Skills": "Customer Service, Booking Systems, Communication",
+    "Role": "Plans travel arrangements",
+    "Responsibilities": "Book flights, hotels, tours, assist clients",
+    "Degree": "High School Diploma or Associate's",
+    "job_description": "The Travel Agent role focuses on Plans travel arrangements. This position requires strong proficiency in Customer Service, Booking Systems, Communication. Key responsibilities include Book flights, hotels, tours, assist clients. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Technical Support Specialist",
+    "Skills": "Troubleshooting, Customer Service, IT Knowledge",
+    "Role": "Provides technical assistance",
+    "Responsibilities": "Resolve technical issues, guide users, document solutions",
+    "Degree": "Associate's or Bachelor's in IT or related",
+    "job_description": "The Technical Support Specialist role focuses on Provides technical assistance. This position requires strong proficiency in Troubleshooting, Customer Service, IT Knowledge. Key responsibilities include Resolve technical issues, guide users, document solutions. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Illustrator",
+    "Skills": "Drawing, Digital Art, Creativity",
+    "Role": "Creates illustrations",
+    "Responsibilities": "Design artwork, collaborate with clients",
+    "Degree": "Bachelor's in Fine Arts or related",
+    "job_description": "The Illustrator role focuses on Creates illustrations. This position requires strong proficiency in Drawing, Digital Art, Creativity. Key responsibilities include Design artwork, collaborate with clients. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Medical Assistant",
+    "Skills": "Patient Care, Administrative Tasks",
+    "Role": "Supports medical staff",
+    "Responsibilities": "Take vitals, schedule appointments, manage records",
+    "Degree": "Certificate or Associate's in Medical Assisting",
+    "job_description": "The Medical Assistant role focuses on Supports medical staff. This position requires strong proficiency in Patient Care, Administrative Tasks. Key responsibilities include Take vitals, schedule appointments, manage records. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Quality Control Inspector",
+    "Skills": "Inspection, Data Recording, Compliance",
+    "Role": "Ensures product quality",
+    "Responsibilities": "Inspect products, record data, report defects",
+    "Degree": "High School Diploma or Associate's",
+    "job_description": "The Quality Control Inspector role focuses on Ensures product quality. This position requires strong proficiency in Inspection, Data Recording, Compliance. Key responsibilities include Inspect products, record data, report defects. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Insurance Agent",
+    "Skills": "Sales, Customer Service, Risk Assessment",
+    "Role": "Sells insurance policies",
+    "Responsibilities": "Advise clients, process applications, handle claims",
+    "Degree": "High School Diploma or Bachelor's",
+    "job_description": "The Insurance Agent role focuses on Sells insurance policies. This position requires strong proficiency in Sales, Customer Service, Risk Assessment. Key responsibilities include Advise clients, process applications, handle claims. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Clinical Psychologist",
+    "Skills": "Therapy, Research, Assessment",
+    "Role": "Provides psychological treatment",
+    "Responsibilities": "Diagnose mental health issues, provide therapy",
+    "Degree": "Doctorate in Psychology",
+    "job_description": "The Clinical Psychologist role focuses on Provides psychological treatment. This position requires strong proficiency in Therapy, Research, Assessment. Key responsibilities include Diagnose mental health issues, provide therapy. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Payroll Specialist",
+    "Skills": "Payroll Processing, Accounting, Compliance",
+    "Role": "Manages employee payroll",
+    "Responsibilities": "Process salaries, maintain records, ensure compliance",
+    "Degree": "Associate's or Bachelor's in Accounting",
+    "job_description": "The Payroll Specialist role focuses on Manages employee payroll. This position requires strong proficiency in Payroll Processing, Accounting, Compliance. Key responsibilities include Process salaries, maintain records, ensure compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Health and Safety Officer",
+    "Skills": "Safety Regulations, Risk Assessment, Training",
+    "Role": "Ensures workplace safety",
+    "Responsibilities": "Conduct inspections, develop safety policies, train staff",
+    "Degree": "Bachelor's in Occupational Health or related",
+    "job_description": "The Health and Safety Officer role focuses on Ensures workplace safety. This position requires strong proficiency in Safety Regulations, Risk Assessment, Training. Key responsibilities include Conduct inspections, develop safety policies, train staff. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Fitness Trainer",
+    "Skills": "Exercise Science, Nutrition, Motivation",
+    "Role": "Designs fitness programs",
+    "Responsibilities": "Create workout plans, instruct clients, monitor progress",
+    "Degree": "Certification or Degree in Fitness or related",
+    "job_description": "The Fitness Trainer role focuses on Designs fitness programs. This position requires strong proficiency in Exercise Science, Nutrition, Motivation. Key responsibilities include Create workout plans, instruct clients, monitor progress. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Biologist",
+    "Skills": "Research, Laboratory Techniques, Data Analysis",
+    "Role": "Studies living organisms",
+    "Responsibilities": "Conduct experiments, analyze results, publish papers",
+    "Degree": "Bachelor's or Master's in Biology",
+    "job_description": "The Biologist role focuses on Studies living organisms. This position requires strong proficiency in Research, Laboratory Techniques, Data Analysis. Key responsibilities include Conduct experiments, analyze results, publish papers. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Economist",
+    "Skills": "Economic Theory, Data Analysis, Policy",
+    "Role": "Analyzes economic data",
+    "Responsibilities": "Research trends, prepare reports, advise stakeholders",
+    "Degree": "Bachelor's or Master's in Economics",
+    "job_description": "The Economist role focuses on Analyzes economic data. This position requires strong proficiency in Economic Theory, Data Analysis, Policy. Key responsibilities include Research trends, prepare reports, advise stakeholders. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Clinical Nurse Specialist",
+    "Skills": "Patient Care, Diagnosis, Treatment",
+    "Role": "Provides advanced nursing care",
+    "Responsibilities": "Assess patients, develop treatment plans",
+    "Degree": "Master's in Nursing or related",
+    "job_description": "The Clinical Nurse Specialist role focuses on Provides advanced nursing care. This position requires strong proficiency in Patient Care, Diagnosis, Treatment. Key responsibilities include Assess patients, develop treatment plans. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Statistician",
+    "Skills": "Statistical Analysis, Data Modeling, Reporting",
+    "Role": "Analyzes data sets",
+    "Responsibilities": "Create models, interpret results, present findings",
+    "Degree": "Bachelor's/Master's in Statistics or related",
+    "job_description": "The Statistician role focuses on Analyzes data sets. This position requires strong proficiency in Statistical Analysis, Data Modeling, Reporting. Key responsibilities include Create models, interpret results, present findings. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Database Manager",
+    "Skills": "Database Administration, Security, Backup",
+    "Role": "Oversees database systems",
+    "Responsibilities": "Manage database performance, security, backups",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The Database Manager role focuses on Oversees database systems. This position requires strong proficiency in Database Administration, Security, Backup. Key responsibilities include Manage database performance, security, backups. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Translator",
+    "Skills": "Language Proficiency, Writing, Cultural Knowledge",
+    "Role": "Translates written materials",
+    "Responsibilities": "Convert documents, ensure accuracy, localize content",
+    "Degree": "Bachelor's in Languages or related",
+    "job_description": "The Translator role focuses on Translates written materials. This position requires strong proficiency in Language Proficiency, Writing, Cultural Knowledge. Key responsibilities include Convert documents, ensure accuracy, localize content. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Audiologist",
+    "Skills": "Hearing Assessment, Therapy, Communication",
+    "Role": "Diagnoses and treats hearing disorders",
+    "Responsibilities": "Conduct tests, fit hearing aids, provide therapy",
+    "Degree": "Master's or Doctorate in Audiology",
+    "job_description": "The Audiologist role focuses on Diagnoses and treats hearing disorders. This position requires strong proficiency in Hearing Assessment, Therapy, Communication. Key responsibilities include Conduct tests, fit hearing aids, provide therapy. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Database Analyst",
+    "Skills": "SQL, Data Warehousing, Reporting",
+    "Role": "Analyzes and reports on database data",
+    "Responsibilities": "Write queries, generate reports, optimize data retrieval",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The Database Analyst role focuses on Analyzes and reports on database data. This position requires strong proficiency in SQL, Data Warehousing, Reporting. Key responsibilities include Write queries, generate reports, optimize data retrieval. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Geologist",
+    "Skills": "Field Work, Data Analysis, Report Writing",
+    "Role": "Studies earth processes",
+    "Responsibilities": "Collect samples, analyze data, prepare reports",
+    "Degree": "Bachelor's or Master's in Geology",
+    "job_description": "The Geologist role focuses on Studies earth processes. This position requires strong proficiency in Field Work, Data Analysis, Report Writing. Key responsibilities include Collect samples, analyze data, prepare reports. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Occupational Health Nurse",
+    "Skills": "Patient Care, Safety, Compliance",
+    "Role": "Promotes workplace health",
+    "Responsibilities": "Conduct health screenings, provide care, ensure compliance",
+    "Degree": "Bachelor's in Nursing or related",
+    "job_description": "The Occupational Health Nurse role focuses on Promotes workplace health. This position requires strong proficiency in Patient Care, Safety, Compliance. Key responsibilities include Conduct health screenings, provide care, ensure compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Biomedical Engineer",
+    "Skills": "Medical Device Design, Testing, Regulatory Knowledge",
+    "Role": "Designs biomedical equipment",
+    "Responsibilities": "Develop devices, test prototypes, ensure compliance",
+    "Degree": "Bachelor's in Biomedical Engineering",
+    "job_description": "The Biomedical Engineer role focuses on Designs biomedical equipment. This position requires strong proficiency in Medical Device Design, Testing, Regulatory Knowledge. Key responsibilities include Develop devices, test prototypes, ensure compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Speech-Language Pathologist",
+    "Skills": "Communication Disorders, Therapy Techniques",
+    "Role": "Provides therapy for speech/language disorders",
+    "Responsibilities": "Assess, treat, and support patients",
+    "Degree": "Master's in Speech-Language Pathology",
+    "job_description": "The Speech-Language Pathologist role focuses on Provides therapy for speech/language disorders. This position requires strong proficiency in Communication Disorders, Therapy Techniques. Key responsibilities include Assess, treat, and support patients. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Tax Accountant",
+    "Skills": "Tax Preparation, Accounting, Compliance",
+    "Role": "Prepares tax documents",
+    "Responsibilities": "File returns, advise clients, ensure compliance",
+    "Degree": "Bachelor's in Accounting or related",
+    "job_description": "The Tax Accountant role focuses on Prepares tax documents. This position requires strong proficiency in Tax Preparation, Accounting, Compliance. Key responsibilities include File returns, advise clients, ensure compliance. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Film Editor",
+    "Skills": "Video Editing, Storytelling, Software Skills",
+    "Role": "Edits film and video projects",
+    "Responsibilities": "Assemble footage, add effects, collaborate with directors",
+    "Degree": "Bachelor's in Film or related",
+    "job_description": "The Film Editor role focuses on Edits film and video projects. This position requires strong proficiency in Video Editing, Storytelling, Software Skills. Key responsibilities include Assemble footage, add effects, collaborate with directors. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Copy Editor",
+    "Skills": "Proofreading, Grammar, Style",
+    "Role": "Edits written content",
+    "Responsibilities": "Review and correct text, ensure clarity and accuracy",
+    "Degree": "Bachelor's in English, Journalism, or related",
+    "job_description": "The Copy Editor role focuses on Edits written content. This position requires strong proficiency in Proofreading, Grammar, Style. Key responsibilities include Review and correct text, ensure clarity and accuracy. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Technical Recruiter",
+    "Skills": "Recruitment, Communication, Screening",
+    "Role": "Hires technical staff",
+    "Responsibilities": "Source candidates, conduct interviews, manage hiring process",
+    "Degree": "Bachelor's in HR or related",
+    "job_description": "The Technical Recruiter role focuses on Hires technical staff. This position requires strong proficiency in Recruitment, Communication, Screening. Key responsibilities include Source candidates, conduct interviews, manage hiring process. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Construction Manager",
+    "Skills": "Project Management, Budgeting, Safety",
+    "Role": "Oversees construction projects",
+    "Responsibilities": "Plan schedules, manage budgets, enforce safety",
+    "Degree": "Bachelor's in Construction Management or related",
+    "job_description": "The Construction Manager role focuses on Oversees construction projects. This position requires strong proficiency in Project Management, Budgeting, Safety. Key responsibilities include Plan schedules, manage budgets, enforce safety. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Nutritionist",
+    "Skills": "Diet Planning, Health Education, Research",
+    "Role": "Advises on nutrition",
+    "Responsibilities": "Develop diet plans, educate clients, conduct research",
+    "Degree": "Bachelor's in Nutrition or related",
+    "job_description": "The Nutritionist role focuses on Advises on nutrition. This position requires strong proficiency in Diet Planning, Health Education, Research. Key responsibilities include Develop diet plans, educate clients, conduct research. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "QA Tester",
+    "Skills": "Software Testing, Bug Reporting, Automation",
+    "Role": "Tests software products",
+    "Responsibilities": "Execute test cases, log bugs, verify fixes",
+    "Degree": "Bachelor's in CS or related",
+    "job_description": "The QA Tester role focuses on Tests software products. This position requires strong proficiency in Software Testing, Bug Reporting, Automation. Key responsibilities include Execute test cases, log bugs, verify fixes. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Video Producer",
+    "Skills": "Video Production, Project Management, Editing",
+    "Role": "Produces video content",
+    "Responsibilities": "Plan shoots, manage projects, edit footage",
+    "Degree": "Bachelor's in Film or related",
+    "job_description": "The Video Producer role focuses on Produces video content. This position requires strong proficiency in Video Production, Project Management, Editing. Key responsibilities include Plan shoots, manage projects, edit footage. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Pharmacist",
+    "Skills": "Pharmacology, Patient Care, Prescription Management",
+    "Role": "Dispenses medications",
+    "Responsibilities": "Fill prescriptions, counsel patients, manage inventory",
+    "Degree": "Bachelor's or Doctorate in Pharmacy",
+    "job_description": "The Pharmacist role focuses on Dispenses medications. This position requires strong proficiency in Pharmacology, Patient Care, Prescription Management. Key responsibilities include Fill prescriptions, counsel patients, manage inventory. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Legal Consultant",
+    "Skills": "Legal Advice, Research, Drafting",
+    "Role": "Provides legal counsel",
+    "Responsibilities": "Advise clients, draft documents, research laws",
+    "Degree": "JD or equivalent law degree",
+    "job_description": "The Legal Consultant role focuses on Provides legal counsel. This position requires strong proficiency in Legal Advice, Research, Drafting. Key responsibilities include Advise clients, draft documents, research laws. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Digital Marketing Manager",
+    "Skills": "SEO, PPC, Content Strategy",
+    "Role": "Leads digital marketing efforts",
+    "Responsibilities": "Plan campaigns, manage teams, analyze results",
+    "Degree": "Bachelor's in Marketing or related",
+    "job_description": "The Digital Marketing Manager role focuses on Leads digital marketing efforts. This position requires strong proficiency in SEO, PPC, Content Strategy. Key responsibilities include Plan campaigns, manage teams, analyze results. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Biomedical Scientist",
+    "Skills": "Laboratory Techniques, Research, Data Analysis",
+    "Role": "Conducts biomedical research",
+    "Responsibilities": "Perform experiments, analyze data, publish results",
+    "Degree": "Bachelor's or Master's in Biomedical Science",
+    "job_description": "The Biomedical Scientist role focuses on Conducts biomedical research. This position requires strong proficiency in Laboratory Techniques, Research, Data Analysis. Key responsibilities include Perform experiments, analyze data, publish results. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Editor",
+    "Skills": "Writing, Editing, Content Development",
+    "Role": "Edits written materials",
+    "Responsibilities": "Review content, improve quality, ensure consistency",
+    "Degree": "Bachelor's in English, Journalism, or related",
+    "job_description": "The Editor role focuses on Edits written materials. This position requires strong proficiency in Writing, Editing, Content Development. Key responsibilities include Review content, improve quality, ensure consistency. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Chemical Technician",
+    "Skills": "Laboratory Skills, Safety, Data Recording",
+    "Role": "Supports chemical engineers",
+    "Responsibilities": "Conduct tests, record data, maintain equipment",
+    "Degree": "Associate's or Bachelor's in Chemistry or related",
+    "job_description": "The Chemical Technician role focuses on Supports chemical engineers. This position requires strong proficiency in Laboratory Skills, Safety, Data Recording. Key responsibilities include Conduct tests, record data, maintain equipment. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "UX Designer",
+    "Skills": "User Research, Wireframing, Prototyping",
+    "Role": "Designs user experience",
+    "Responsibilities": "Create wireframes, conduct usability testing, collaborate",
+    "Degree": "Bachelor's in Design or related",
+    "job_description": "The UX Designer role focuses on Designs user experience. This position requires strong proficiency in User Research, Wireframing, Prototyping. Key responsibilities include Create wireframes, conduct usability testing, collaborate. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "Physician",
+    "Skills": "Medical Knowledge, Diagnosis, Patient Care",
+    "Role": "Provides medical care",
+    "Responsibilities": "Diagnose and treat illnesses, prescribe medication",
+    "Degree": "Doctor of Medicine (MD)",
+    "job_description": "The Physician role focuses on Provides medical care. This position requires strong proficiency in Medical Knowledge, Diagnosis, Patient Care. Key responsibilities include Diagnose and treat illnesses, prescribe medication. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  },
+  {
+    "Job Title": "HR Specialist",
+    "Skills": "Recruitment, Employee Relations, Training",
+    "Role": "Supports HR functions",
+    "Responsibilities": "Assist hiring, manage employee records, conduct training",
+    "Degree": "Bachelor's in HR or related",
+    "job_description": "The HR Specialist role focuses on Supports HR functions. This position requires strong proficiency in Recruitment, Employee Relations, Training. Key responsibilities include Assist hiring, manage employee records, conduct training. Candidates should possess the relevant educational background as outlined and demonstrate the ability to apply their expertise in real-world scenarios."
+  }
+]

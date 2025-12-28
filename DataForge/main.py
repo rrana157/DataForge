@@ -3,6 +3,7 @@
 def hello():
     print("Hello from Jack")
 
+hello()
 
 
 
